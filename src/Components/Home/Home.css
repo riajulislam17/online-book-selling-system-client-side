@@ -1,0 +1,15 @@
+.images{
+    height: 250px;
+    width: 100%;
+}
+.image{
+    height: 300px;
+    width: 100%;
+}
+.user-image{
+    width: 100%;
+    height: 150px;
+}
+.bg-color{
+    background-color: tomato;
+}
